@@ -11,4 +11,3 @@ def greet(who_to_greet):
 
 
 print(greet("Ray"))
-print(greet("Shawn")
